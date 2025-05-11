@@ -9,7 +9,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<picture> <img align="right" src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="250px"></picture>
 
 - 🎓 I am a student at **SENA**, pursuing a technologist degree in **Software Analysis and Development**.
 - 💻 I have experience with programming languages such as **Python**, **Java**, **JavaScript**, **PHP**, **C**, **C++**, and **C#**.
