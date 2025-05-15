@@ -12,9 +12,9 @@
 <picture> <img align="right" src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="250px"></picture>
 
 - 🎓 I am a student at **SENA**, pursuing a technologist degree in **Software Analysis and Development**.
-- 💻 I have experience with programming languages such as **Python**, **Java**, **JavaScript**, **PHP**, **C**, **C++**, and **C#**.
+- 💻 I have experience with programming languages such as **Python**, **Java** and **JavaScript**.
 - 🎨 I design graphically with tools such as **Canva**, **Figma**, and **WIX**.
-- 🌐 I work with frameworks and tools like **Django**, **React**, **Node.js**, and **Bootstrap**.
+- 🌐 I work with frameworks and tools like **Laravel** and **Bootstrap**.
 - 📂 I use **Git** and **GitHub** for version control and collaborative development.
 - 🖥️ I use IDEs such as **Visual Studio**, **Visual Studio Code**, **NetBeans**, **IntelliJ IDEA**, and **Phoenix Code**.
 - 🗄️ I work with database management tools like **MySQL** and **HeidiSQL**.
@@ -35,12 +35,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25">
   &nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25">
-  &nbsp;
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
   &nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
@@ -48,12 +42,6 @@
 
 ### Frameworks and Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25">
-  &nbsp;
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
   &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
