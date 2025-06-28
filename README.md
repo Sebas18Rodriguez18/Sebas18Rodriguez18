@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Sebas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Software+Developer;Student+at+SENA;Passionate+about+Learning+and+Improving;Skilled+in+Python,+Java,+JavaScript,+PHP;Designer+with+Canva,+Figma+and+WIX;Always+Positive+and+Eager+to+Learn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Software+Developer;Student+at+SENA;Passionate+about+Learning+and+Improving;Skilled+in+Python,+Java,+JavaScript;Designer+with+Canva,+Figma+and+WIX;Always+Positive+and+Eager+to+Learn">
   </a>
 </p>
 
