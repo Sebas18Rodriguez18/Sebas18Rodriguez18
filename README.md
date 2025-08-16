@@ -10,9 +10,16 @@
 
 ## 🐒 My Personal Mark
 <p align="center">
-  <img src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="120px" />
+  <img src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="140px" />
 </p>
-<p align="center">This monkey hand is my personal logo — a unique symbol that represents my creative side as a developer.</p>
+
+<h3 align="center">
+  <i>"Smart minds don’t just adapt, they rewrite the system."</i>
+</h3>
+
+<p align="center">
+  This mark is a symbol of resourcefulness — a constant reminder to turn challenges into opportunities through code.
+</p>
 
 ---
 
