@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Sebas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=700&height=100&lines=Junior+Software+Developer;SENA+Technologist+Student;Spring+Boot+Enthusiast;SOA+Architecture+Lover;Skilled+in+Python,+Java,+JavaScript;Bootstrap+and+Reusable+Templates;Always+Learning+English+and+French">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=700&height=100&lines=Junior+Software+Developer;Backend+%26+Fullstack+Projects;Spring+Boot+%26+Laravel+Enthusiast;SOA+Architecture+Lover;Skilled+in+Python,+Java,+JavaScript,+PHP;Always+Learning+English+and+French">
 </h1>
 
 ---
@@ -13,15 +13,37 @@
 </picture>
 
 - 🎓 Student at **SENA**, pursuing a degree in **Software Analysis and Development**.
-- 💻 Enthusiastic about **Spring Boot** and its dependencies, one of my favorite frameworks for creating simple yet robust software solutions (CRUD-focused).
-- 🛠 Strong interest in **Service-Oriented Architecture (SOA)** for scalable and maintainable systems.
-- 🎨 Skilled in building user interfaces with **Bootstrap** and **reusable templates**.
-- 🌐 Experienced in **Python**, **Java**, **JavaScript**, and **PHP**.
-- 🎨 Graphic design with **Canva**, **Figma**, and **WIX**.
-- 📂 Proficient with **Git** and **GitHub** for version control and collaboration.
-- 🗄 Experienced with **MySQL**, **SQL Server**, and **HeidiSQL**.
-- 🌱 Currently learning **English** and **French** to expand communication and professional opportunities.
-- 😊 Always positive, adaptable, and committed to continuous improvement.
+- 💻 Passionate about **Spring Boot** & **Laravel**, building scalable and maintainable apps.
+- 🛠 Advocate of **Service-Oriented Architecture (SOA)** for modern software design.
+- 🌐 Experienced with **Python**, **Java**, **JavaScript**, and **PHP**.
+- 🎨 Frontend lover: **Bootstrap** & **reusable templates** for clean UIs.
+- 🗄 Proficient with **MySQL**, **SQL Server**, and **HeidiSQL**.
+- 📂 Skilled in **Git** and **GitHub** for version control and collaboration.
+- 🖌 Background in **graphic design** with Canva, Figma & WIX.
+- 🌱 Currently learning **English** and **French** to expand global opportunities.
+- ✨ Motivated, adaptable, and committed to continuous growth.
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Sebas18Rodriguez18/ArkoSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=ArkoSystem&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Sebas18Rodriguez18/Just-Guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=Just-Guide&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sebas18Rodriguez18/PERSA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=PERSA&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anfeles85/persa-sena">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfeles85&repo=persa-sena&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -50,33 +72,28 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
 </p>
 
-### Design Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/WIX-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" height="25">
-</p>
-
-### IDEs and Editors
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Phoenix_Code-FFA500?style=for-the-badge&logo=phoenix-framework&logoColor=white" height="25">
-</p>
-
-### Databases and Management Tools
+### Databases and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/HeidiSQL-328AC3?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
-### Operating Systems
+### Design & IDEs
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/WIX-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebas18Rodriguez18&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas18Rodriguez18&theme=tokyonight" height="160"/>
 </p>
 
 ---
