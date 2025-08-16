@@ -1,7 +1,9 @@
 <h1 align="center">
-  Hey, I'm Sebas 👨‍💻
+  Hi, I'm Sebas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <br>
-  <img style="text-aling: center;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=700&lines=Junior+Software+Developer;Spring+Boot+%26+Java+Enthusiast;Laravel+%26+Fullstack+Explorer;SOA+Architecture+Lover;Always+Learning+English+%26+French" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Software+Developer;Student+at+SENA;Passionate+about+Learning+and+Improving;Skilled+in+Python,+Java,+JavaScript;Designer+with+Canva,+Figma+and+WIX;Always+Positive+and+Eager+to+Learn">
+  </a>
+</p>
 </h1>
 
 ---
