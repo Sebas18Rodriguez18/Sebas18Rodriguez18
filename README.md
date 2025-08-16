@@ -8,21 +8,6 @@
 
 ---
 
-## 🖤 About Me
-<picture>
-  <!-- GIF estilo dark/aesthetic dev -->
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px">
-</picture>
-
-- 🎓 Student at **SENA**, pursuing a degree in **Software Analysis and Development**.  
-- 💻 Passionate about **Spring Boot** & **Laravel**, building scalable apps.  
-- 🛠 Advocate of **Service-Oriented Architecture (SOA)**.  
-- 🌍 Currently learning **English** and **French** to expand global opportunities.  
-
-🚀 *I enjoy turning complex problems into simple and scalable software solutions.*
-
----
-
 ## 🐒 My Personal Mark
 <p align="center">
   <img src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="120px" />
@@ -30,6 +15,95 @@
 <p align="center">This monkey hand is my personal logo — a unique symbol that represents my creative side as a developer.</p>
 
 ---
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+<picture>
+  <img align="right" src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="250px">
+</picture>
+
+- 🎓 Student at **SENA**, pursuing a degree in **Software Analysis and Development**.
+- 💻 Enthusiastic about **Spring Boot** and its dependencies, one of my favorite frameworks for creating simple yet robust software solutions (CRUD-focused).
+- 🛠 Strong interest in **Service-Oriented Architecture (SOA)** for scalable and maintainable systems.
+- 🎨 Skilled in building user interfaces with **Bootstrap** and **reusable templates**.
+- 🌐 Experienced in **Python**, **Java**, **JavaScript**, and **PHP**.
+- 🎨 Graphic design with **Canva**, **Figma**, and **WIX**.
+- 📂 Proficient with **Git** and **GitHub** for version control and collaboration.
+- 🗄 Experienced with **MySQL**, **SQL Server**, and **HeidiSQL**.
+- 🌱 Currently learning **English** and **French** to expand communication and professional opportunities.
+- 😊 Always positive, adaptable, and committed to continuous improvement.
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Skills and Tools
+
+### Programming Languages
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
+</p>
+
+### Frameworks and Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
+</p>
+
+### Version Control
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+</p>
+
+### Design Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/WIX-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" height="25">
+</p>
+
+### IDEs and Editors
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Phoenix_Code-FFA500?style=for-the-badge&logo=phoenix-framework&logoColor=white" height="25">
+</p>
+
+### Databases and Management Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/HeidiSQL-328AC3?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+</p>
+
+### Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="25">
+</p>
 
 ## 🔥 Featured Projects
 <p align="center">
@@ -45,43 +119,6 @@
   <a href="https://github.com/anfeles85/persa-sena">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfeles85&repo=persa-sena&theme=radical" />
   </a>
-</p>
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🚀 Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🛠️ IDEs & Code Editors
-<p align="center">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
-</p>
-
-### 🖥️ Operating Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
