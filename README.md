@@ -1,111 +1,110 @@
 <h1 align="center">
-  Hi, I'm Sebas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey, I'm Sebas 👋
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=700&height=100&lines=Junior+Software+Developer;Backend+%26+Fullstack+Projects;Spring+Boot+%26+Laravel+Enthusiast;SOA+Architecture+Lover;Skilled+in+Python,+Java,+JavaScript,+PHP;Always+Learning+English+and+French">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=700&lines=Junior+Software+Developer;Spring+Boot+%26+Java+Enthusiast;Laravel+%26+Fullstack+Explorer;SOA+Architecture+Lover;Always+Learning+%F0%9F%8C%8D+English+%26+French" />
 </h1>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## 🐒 My Personal Mark
+<p align="center">
+  <img src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="120px" />
+</p>
+<p align="center">
+  This monkey hand is my personal logo ✨ — my unique symbol of creativity, energy, and identity as a developer.  
+</p>
 
+---
+
+## 👨‍💻 About Me
 <picture>
-  <img align="right" src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="250px">
+  <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260px">
 </picture>
 
-- 🎓 Student at **SENA**, pursuing a degree in **Software Analysis and Development**.
-- 💻 Passionate about **Spring Boot** & **Laravel**, building scalable and maintainable apps.
-- 🛠 Advocate of **Service-Oriented Architecture (SOA)** for modern software design.
-- 🌐 Experienced with **Python**, **Java**, **JavaScript**, and **PHP**.
-- 🎨 Frontend lover: **Bootstrap** & **reusable templates** for clean UIs.
-- 🗄 Proficient with **MySQL**, **SQL Server**, and **HeidiSQL**.
-- 📂 Skilled in **Git** and **GitHub** for version control and collaboration.
-- 🖌 Background in **graphic design** with Canva, Figma & WIX.
-- 🌱 Currently learning **English** and **French** to expand global opportunities.
-- ✨ Motivated, adaptable, and committed to continuous growth.
+- 🎓 Student at **SENA**, pursuing a degree in **Software Analysis and Development**.  
+- 💻 Passionate about **Spring Boot** & **Laravel**, building scalable apps.  
+- 🛠 Advocate of **Service-Oriented Architecture (SOA)**.  
+- 🌱 Currently learning **English** and **French** to expand global opportunities.  
+- ✨ Driven by the idea of creating software that is **useful, accessible, and fun to build**.  
+
+🚀 *I enjoy turning complex problems into simple and scalable software solutions.*  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sebas18Rodriguez18/ArkoSystem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=ArkoSystem&theme=tokyonight" />
+      </a>
+      <p>🖥️ Business management system with Spring Boot + Thymeleaf.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sebas18Rodriguez18/Just-Guide">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=Just-Guide&theme=tokyonight" />
+      </a>
+      <p>📱 Mobile + web guide app for tourists, built with Laravel.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sebas18Rodriguez18/PERSA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=PERSA&theme=tokyonight" />
+      </a>
+      <p>🧾 Academic project focused on modular CRUDs and learning SOA.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anfeles85/persa-sena">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfeles85&repo=persa-sena&theme=tokyonight" />
+      </a>
+      <p>🤝 Collaboration project at SENA — enhancing modular architecture.</p>
+    </td>
+  </tr>
+</table>
 
+---
+
+## 🛠️ Skills
 <p align="center">
-  <a href="https://github.com/Sebas18Rodriguez18/ArkoSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=ArkoSystem&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Sebas18Rodriguez18/Just-Guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=Just-Guide&theme=tokyonight" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sebas18Rodriguez18/PERSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=PERSA&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anfeles85/persa-sena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfeles85&repo=persa-sena&theme=tokyonight" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 </p>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"> Skills and Tools
-
-### Programming Languages
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="25">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
-</p>
-
-### Frameworks and Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
-</p>
-
-### Version Control
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
-</p>
-
-### Databases and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/HeidiSQL-328AC3?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-</p>
-
-### Design & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/WIX-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25">
-</p>
+## 🎯 Current Goals
+- Mastering **Spring Boot Security & Microservices**.  
+- Building more **scalable REST APIs** with Laravel.  
+- Strengthening my skills in **English & French** 🌍.  
+- Expanding my open-source contributions on GitHub.  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebas18Rodriguez18&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebas18Rodriguez18&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebas18Rodriguez18&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas18Rodriguez18&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 🌍 Connect with Me
+## 📫 Connect with Me
 <p align="center">
-  <a href="mailto:sr1290853@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/SebasDevCruz26"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.instagram.com/srcj_26/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sebastian-cruz-43b733343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:juanrodriguez18dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/juan-sebastian-rodriguez-cruz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200px">
 </p>
