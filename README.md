@@ -1,7 +1,7 @@
 <h1 align="center">
   Hey, I'm Sebas 👨‍💻
   <br>
-  <img style="text-align: center;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=700&lines=Junior+Software+Developer;Spring+Boot+%26+Java+Enthusiast;Laravel+%26+Fullstack+Explorer;SOA+Architecture+Lover;Always+Learning+English+%26+French" />
+  <img style="text-aling: center;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=700&lines=Junior+Software+Developer;Spring+Boot+%26+Java+Enthusiast;Laravel+%26+Fullstack+Explorer;SOA+Architecture+Lover;Always+Learning+English+%26+French" />
 </h1>
 
 ---
