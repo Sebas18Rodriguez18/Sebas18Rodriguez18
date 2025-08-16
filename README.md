@@ -18,7 +18,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 <picture>
-  <img align="right" src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/mono_dedos_realismo.gif" width="250px">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px">
 </picture>
 
 - 🎓 Student at **SENA**, pursuing a degree in **Software Analysis and Development**.
@@ -79,8 +79,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
   &nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25">
-  &nbsp;
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="25">
   &nbsp;
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25">
@@ -94,7 +92,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
   &nbsp;
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/HeidiSQL-328AC3?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
 
@@ -138,12 +135,3 @@
   <a href="https://www.instagram.com/srcj_26/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sebastian-cruz-43b733343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
----
-
-## 🌌 Closing Vibe
-<p align="center">
-  <!-- GIF dark aesthetic -->
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="500px"/>
-</p>
-<p align="center">Code, creativity, and constant learning define my journey as a developer.</p>
