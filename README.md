@@ -35,7 +35,7 @@
 - 🌐 Experienced in **Python**, **Java**, **JavaScript**, and **PHP**.
 - 🎨 Graphic design with **Canva**, **Figma**, and **WIX**.
 - 📂 Proficient with **Git** and **GitHub** for version control and collaboration.
-- 🗄 Experienced with **MySQL**, **SQL Server**, and **HeidiSQL**.
+- 🗄 Experienced with **MySQL** and **HeidiSQL**.
 - 🌱 Currently learning **English** and **French** to expand communication and professional opportunities.
 - 😊 Always positive, adaptable, and committed to continuous improvement.
 
