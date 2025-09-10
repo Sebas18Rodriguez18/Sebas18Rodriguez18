@@ -2,8 +2,6 @@
   Hi, I'm Sebas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Software+Developer;Student+at+SENA;Passionate+about+Learning+and+Improving;Skilled+in+Python,+Java,+JavaScript;Designer+with+Canva,+Figma+and+WIX;Always+Positive+and+Eager+to+Learn">
-  </a>
-</p>
 </h1>
 
 ---
@@ -31,12 +29,15 @@
 - 🎓 Student at **SENA**, pursuing a degree in **Software Analysis and Development**.
 - 💻 Enthusiastic about **Spring Boot** and its dependencies, one of my favorite frameworks for creating simple yet robust software solutions (CRUD-focused).
 - 🛠 Strong interest in **Service-Oriented Architecture (SOA)** for scalable and maintainable systems.
-- 🎨 Skilled in building user interfaces with **Bootstrap** and **reusable templates**.
-- 🌐 Experienced in **Python**, **Java**, **JavaScript**, and **PHP**.
+- 🌐 Experienced in **Python**, **Java**, **JavaScript**, **HTML5**, and **CSS3** *(junior level)*.
+- ⚛️ Learning **React** and improving **JavaScript** with real projects.
+- ☁️ Exploring **Netlify** for deployment and integration with frontend projects.
+- 📬 Skilled with **Postman** and **Hoppscotch** for API testing.
 - 🎨 Graphic design with **Canva**, **Figma**, and **WIX**.
 - 📂 Proficient with **Git** and **GitHub** for version control and collaboration.
 - 🗄 Experienced with **MySQL** and **HeidiSQL**.
-- 🌱 Currently learning **English** and **French** to expand communication and professional opportunities.
+- 📊 Using **Jira** and **Trello** for agile project management.
+- 🌱 Languages: **English (B2)**, **French (beginner)**.
 - 😊 Always positive, adaptable, and committed to continuous improvement.
 
 ---
@@ -51,19 +52,32 @@
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="25">
   &nbsp;
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
   &nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
 </p>
 
 ### Frameworks and Libraries
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+  &nbsp;
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
   &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
+</p>
+
+### API & Testing
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hoppscotch-00C58E?style=for-the-badge&logo=hoppscotch&logoColor=white" height="25">
+</p>
+
+### Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25">
 </p>
 
 ### Version Control
@@ -71,6 +85,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+</p>
+
+### Project Management
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="25">
 </p>
 
 ### Design Tools
@@ -82,22 +103,9 @@
   <img src="https://img.shields.io/badge/WIX-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" height="25">
 </p>
 
-### IDEs and Editors
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Phoenix_Code-FFA500?style=for-the-badge&logo=phoenix-framework&logoColor=white" height="25">
-</p>
-
 ### Databases and Management Tools
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
   &nbsp;
   <img src="https://img.shields.io/badge/HeidiSQL-328AC3?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 </p>
@@ -108,6 +116,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="25">
 </p>
+
+---
 
 ## 🔥 Featured Projects
 <p align="center">
@@ -135,7 +145,7 @@
 
 ---
 
-## Connect with Me
+## 🌐 Connect with Me
 <p align="center">
  <img src="https://github.com/Sebas18Rodriguez18/Sebas18Rodriguez18/blob/main/logo-page.png" width="210">
 <p align="center">
