@@ -117,10 +117,10 @@
   <a href="https://github.com/Sebas18Rodriguez18/Just-Guide">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=Just-Guide&theme=radical" />
   </a>
-  <a href="https://github.com/Sebas18Rodriguez18/PERSA">
+  <a href="https://github.com/Sebas18Rodriguez18/PERSA/tree/dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebas18Rodriguez18&repo=PERSA&theme=radical" />
   </a>
-  <a href="https://github.com/anfeles85/persa-sena">
+  <a href="https://github.com/anfeles85/persa-sena/tree/dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anfeles85&repo=persa-sena&theme=radical" />
   </a>
 </p>
